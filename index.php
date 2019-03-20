@@ -23,4 +23,3 @@ require('TwitterRun.php');
 //$else = new TwitterCredentials();
 $some = new TwitterRun;
 echo $some->FetchFeed(10);
-
